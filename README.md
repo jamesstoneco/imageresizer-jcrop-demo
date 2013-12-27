@@ -1,5 +1,5 @@
 imageresizer-jcrop-demo
 =======================
 
-Live Demo at: [https://github.com/manofstone/imageresizer-jcrop-demo](https://github.com/manofstone/imageresizer-jcrop-demo)
+Live Demo at: [http://manofstone.github.io/imageresizer-jcrop-demo/](http://manofstone.github.io/imageresizer-jcrop-demo/)
 
